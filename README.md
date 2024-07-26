@@ -1,5 +1,5 @@
 # Face Emotion Recognition Project
-# Project 1 Description "FinalFER and RealTime-FER"
+# Project 1 Description
 This project aims to perform real-time emotion recognition focuses on building a Convolutional Neural Network (CNN) to recognize human emotions from grayscale images. The goal is to classify images into one of seven emotion categories: angry, disgust, fear, happy, neutral, sad, and surprise. The project uses a modified dataset of images and employs various deep learning techniques to achieve accurate emotion classification.
 
 ## Dataset
@@ -26,7 +26,7 @@ This project demonstrates the application of deep learning techniques to emotion
 
 Feel free to explore, modify, and extend this project to suit your needs. Happy coding!
 
-# Project 2 Description "Project2 and Project2_Report"
+# Project 2 Description 
 This project aims to enhance emotion recognition from images using a combination of deep learning and machine learning techniques. By leveraging a pre-trained Xception model for feature extraction and a genetic algorithm for feature selection, we build a Random Forest classifier to accurately classify emotions.
 
 ## Dataset
