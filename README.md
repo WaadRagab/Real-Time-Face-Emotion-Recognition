@@ -1,4 +1,5 @@
-# Face Emotion Recognition Project
+# Face Emotion Recognition Project 
+# This project serves as the graduation project for my internship at the National Telecommunication Institute (NTI).
 # Project 1 Description
 This project aims to perform real-time emotion recognition focuses on building a Convolutional Neural Network (CNN) to recognize human emotions from grayscale images. The goal is to classify images into one of seven emotion categories: angry, disgust, fear, happy, neutral, sad, and surprise. The project uses a modified dataset of images and employs various deep learning techniques to achieve accurate emotion classification.
 
